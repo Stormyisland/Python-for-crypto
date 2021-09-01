@@ -11,11 +11,11 @@ top_block={
                 {
                  '   from' : '       A            '  ,
                  '   to' :'   B           '  ,
-                 '   amount': 10
+                 '   amount': 100
                  },
                  {'  from  ' :'  B   '  ,
                  '   to   ' :'  C   '  ,
-                 '    amount   ': 10
+                 '    amount   ': 1000
                  },
                   
                  {'  from   ' :'C',
