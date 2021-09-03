@@ -12,7 +12,7 @@ m.digest()
 
 
 n=hashlib.sha256()
-n.update(b'hello world you big buitiful babe')
+n.update(b'hello world you big beutiful babe')
 n.digest()
 
 
