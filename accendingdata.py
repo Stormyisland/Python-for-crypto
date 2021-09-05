@@ -10,7 +10,7 @@ from bokeh.plotting import figure, output_file, show
 
 # prepare some data
 N = 4000
-x = np.random.random(size=N) * 100
+x = np.random.random(size=N) * 110
 y = np.random.random(size=N) * 140
 radii = np.random.random(size=N) * 2.5
 colors = [
