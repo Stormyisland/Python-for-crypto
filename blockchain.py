@@ -7,7 +7,7 @@ Created on Sat Oct 27 19:08:03 2018
 import hashlib
 
 m=hashlib.sha3_256()
-m.update(b'hello world I love you')
+m.update(b'hello world I love you too')
 m.digest()
 
 
